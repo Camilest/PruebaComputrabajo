@@ -1,0 +1,9 @@
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\bin\Debug\PruebaTecnica.Repository.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\bin\Debug\PruebaTecnica.Repository.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\obj\Debug\PruebaTecnica.Repository.csproj.AssemblyReference.cache
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\obj\Debug\PruebaTecnica.Repository.csproj.CoreCompileInputs.cache
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\obj\Debug\PruebaTecnica.Repository.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\obj\Debug\PruebaTecnica.Repository.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\bin\Debug\PruebaTecnica.DTO.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\bin\Debug\PruebaTecnica.DTO.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\3.Repository\PruebaTecnica.Repository\obj\Debug\PruebaTecnica.Repository.csproj.CopyComplete

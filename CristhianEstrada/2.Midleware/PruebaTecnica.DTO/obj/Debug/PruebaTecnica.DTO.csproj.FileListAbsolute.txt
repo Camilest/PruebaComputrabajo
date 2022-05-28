@@ -1,0 +1,6 @@
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.DTO\bin\Debug\PruebaTecnica.DTO.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.DTO\bin\Debug\PruebaTecnica.DTO.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.DTO\obj\Debug\PruebaTecnica.DTO.csproj.AssemblyReference.cache
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.DTO\obj\Debug\PruebaTecnica.DTO.csproj.CoreCompileInputs.cache
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.DTO\obj\Debug\PruebaTecnica.DTO.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.DTO\obj\Debug\PruebaTecnica.DTO.pdb

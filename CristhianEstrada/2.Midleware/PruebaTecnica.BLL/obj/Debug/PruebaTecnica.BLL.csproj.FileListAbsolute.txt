@@ -1,0 +1,11 @@
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\bin\Debug\PruebaTecnica.BLL.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\bin\Debug\PruebaTecnica.BLL.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\obj\Debug\PruebaTecnica.BLL.csproj.AssemblyReference.cache
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\obj\Debug\PruebaTecnica.BLL.csproj.CoreCompileInputs.cache
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\obj\Debug\PruebaTecnica.BLL.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\obj\Debug\PruebaTecnica.BLL.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\bin\Debug\PruebaTecnica.DTO.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\bin\Debug\PruebaTecnica.Repository.dll
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\bin\Debug\PruebaTecnica.Repository.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\bin\Debug\PruebaTecnica.DTO.pdb
+D:\01 Projects\PruebaTecnica\CristhianEstrada\2.Midleware\PruebaTecnica.BLL\obj\Debug\PruebaTecnica.BLL.csproj.CopyComplete
